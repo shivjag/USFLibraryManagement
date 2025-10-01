@@ -1,5 +1,5 @@
 # USFLibraryManagement
-A simple library management system I built for my App Dev class competition.
+A simple library management system we have built for App Dev class competition-2: Inheritence.
 ### What This Does
 This is a C# program that manages books and people in a library. You can add books, add students and staff, and let people borrow books. The available copies update automatically when someone borrows something.
 ### The Classes
@@ -33,7 +33,4 @@ Title: The Art of Data Strategy, Author: Liam Reynolds, Available Copies: 4
 Title: Business Insights with AI, Author: Olivia Carter, Available Copies: 2
 Title: Analytics in Action, Author: Nathan Brooks, Available Copies: 5
 How I Built This
-Used branches for different parts (person-classes, book-class, library-class, main-program). Committed regularly and merged everything into main when done.
-Screenshot of the output is in screenshots/output.png.
-
-###Competition due: Sept 30, 2025
+Used branches for different parts (person-classes, book-class, library-class, main-program). Committed individually and merged everything into main when done.
