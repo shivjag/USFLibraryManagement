@@ -1,0 +1,15 @@
+/Users/shashankjagannatham/Documents/Shivani/AI & BA/Semester 2/Application Development/Assignments/Competition-2/USFLibraryManagement/obj/Debug/net8.0/USFLibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shashankjagannatham/Documents/Shivani/AI & BA/Semester 2/Application Development/Assignments/Competition-2/USFLibraryManagement/obj/Debug/net8.0/USFLibraryManagement.AssemblyInfoInputs.cache
+/Users/shashankjagannatham/Documents/Shivani/AI & BA/Semester 2/Application Development/Assignments/Competition-2/USFLibraryManagement/obj/Debug/net8.0/USFLibraryManagement.AssemblyInfo.cs
+/Users/shashankjagannatham/Documents/Shivani/AI & BA/Semester 2/Application Development/Assignments/Competition-2/USFLibraryManagement/obj/Debug/net8.0/USFLibraryManagement.csproj.CoreCompileInputs.cache
+/Users/shashankjagannatham/Documents/Shivani/AI & BA/Semester 2/Application Development/Assignments/Competition-2/USFLibraryManagement/obj/Debug/net8.0/USFLibraryManagement.sourcelink.json
+/Users/shashankjagannatham/Documents/Shivani/AI & BA/Semester 2/Application Development/Assignments/Competition-2/USFLibraryManagement/bin/Debug/net8.0/USFLibraryManagement
+/Users/shashankjagannatham/Documents/Shivani/AI & BA/Semester 2/Application Development/Assignments/Competition-2/USFLibraryManagement/bin/Debug/net8.0/USFLibraryManagement.deps.json
+/Users/shashankjagannatham/Documents/Shivani/AI & BA/Semester 2/Application Development/Assignments/Competition-2/USFLibraryManagement/bin/Debug/net8.0/USFLibraryManagement.runtimeconfig.json
+/Users/shashankjagannatham/Documents/Shivani/AI & BA/Semester 2/Application Development/Assignments/Competition-2/USFLibraryManagement/bin/Debug/net8.0/USFLibraryManagement.dll
+/Users/shashankjagannatham/Documents/Shivani/AI & BA/Semester 2/Application Development/Assignments/Competition-2/USFLibraryManagement/bin/Debug/net8.0/USFLibraryManagement.pdb
+/Users/shashankjagannatham/Documents/Shivani/AI & BA/Semester 2/Application Development/Assignments/Competition-2/USFLibraryManagement/obj/Debug/net8.0/USFLibraryManagement.dll
+/Users/shashankjagannatham/Documents/Shivani/AI & BA/Semester 2/Application Development/Assignments/Competition-2/USFLibraryManagement/obj/Debug/net8.0/refint/USFLibraryManagement.dll
+/Users/shashankjagannatham/Documents/Shivani/AI & BA/Semester 2/Application Development/Assignments/Competition-2/USFLibraryManagement/obj/Debug/net8.0/USFLibraryManagement.pdb
+/Users/shashankjagannatham/Documents/Shivani/AI & BA/Semester 2/Application Development/Assignments/Competition-2/USFLibraryManagement/obj/Debug/net8.0/USFLibraryManagement.genruntimeconfig.cache
+/Users/shashankjagannatham/Documents/Shivani/AI & BA/Semester 2/Application Development/Assignments/Competition-2/USFLibraryManagement/obj/Debug/net8.0/ref/USFLibraryManagement.dll

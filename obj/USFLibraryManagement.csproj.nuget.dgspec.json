@@ -1,36 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Revanth\\Desktop\\CSharp\\MyConsoleApp\\USFLibraryManagement\\USFLibraryManagement.csproj": {}
+    "/Users/shashankjagannatham/Documents/Shivani/AI & BA/Semester 2/Application Development/Assignments/Competition-2/USFLibraryManagement/USFLibraryManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Revanth\\Desktop\\CSharp\\MyConsoleApp\\USFLibraryManagement\\USFLibraryManagement.csproj": {
+    "/Users/shashankjagannatham/Documents/Shivani/AI & BA/Semester 2/Application Development/Assignments/Competition-2/USFLibraryManagement/USFLibraryManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Revanth\\Desktop\\CSharp\\MyConsoleApp\\USFLibraryManagement\\USFLibraryManagement.csproj",
+        "projectUniqueName": "/Users/shashankjagannatham/Documents/Shivani/AI & BA/Semester 2/Application Development/Assignments/Competition-2/USFLibraryManagement/USFLibraryManagement.csproj",
         "projectName": "USFLibraryManagement",
-        "projectPath": "C:\\Users\\Revanth\\Desktop\\CSharp\\MyConsoleApp\\USFLibraryManagement\\USFLibraryManagement.csproj",
-        "packagesPath": "C:\\Users\\Revanth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Revanth\\Desktop\\CSharp\\MyConsoleApp\\USFLibraryManagement\\obj\\",
+        "projectPath": "/Users/shashankjagannatham/Documents/Shivani/AI & BA/Semester 2/Application Development/Assignments/Competition-2/USFLibraryManagement/USFLibraryManagement.csproj",
+        "packagesPath": "/Users/shashankjagannatham/.nuget/packages/",
+        "outputPath": "/Users/shashankjagannatham/Documents/Shivani/AI & BA/Semester 2/Application Development/Assignments/Competition-2/USFLibraryManagement/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Revanth\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/shashankjagannatham/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -43,12 +37,11 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -65,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.413/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,4 +1,6 @@
 // Person.cs
+namespace USFLibraryManagement
+{
 public class Person
 {
     public string Name { get; set; }
@@ -12,4 +14,5 @@ public class Person
         Email = email;
         ID = id;
     }
+}
 }

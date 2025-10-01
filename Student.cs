@@ -1,4 +1,6 @@
 // Student.cs
+namespace USFLibraryManagement
+{
 public class Student : Person
 {
     public string Major { get; set; }
@@ -11,4 +13,5 @@ public class Student : Person
         Major = major;
         GraduationYear = graduationYear;
     }
+}
 }

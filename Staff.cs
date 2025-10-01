@@ -1,4 +1,6 @@
 // Staff.cs
+namespace USFLibraryManagement
+{
 public class Staff : Person
 {
     public string Position { get; set; }
@@ -10,4 +12,5 @@ public class Staff : Person
         Position = position;
         Department = department;
     }
+}
 }
